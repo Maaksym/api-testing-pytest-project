@@ -2,19 +2,16 @@
 
 This project demonstrates basic API test automation using Python, pytest, and requests.
 
-## Tests included:
+## Features
 - Status code validation
-- Response data validation
-- JSON structure checks
-- POST request testing
-- Negative test cases
+- JSON response validation
+- Positive and negative test cases
 
-## Tech stack:
+## Tech Stack
 - Python
 - pytest
 - requests
 
-Installing dependencies:
-- pip install requests
-/ Command to run :
+## How to run
+pip install -r requirements.txt
 python -m pytest -v
