@@ -16,5 +16,5 @@ This project demonstrates basic API test automation using Python, pytest, and re
 
 Installing dependencies:
 - pip install requests
-command to run :
-- python -m pytest -v
+/ Command to run :
+python -m pytest -v
